@@ -67,8 +67,8 @@
 
     <string name="id_fmt">User ID: %s</string>
     <string name="email_fmt">Email: %s</string>
-    <string name="twitter_consumer_key">QLJbaZFhAL7ufXQXkxMkYrfeJ</string>
-    <string name="twitter_consumer_secret">kA3vuh2KZ9p5dRfveE8TUnqr0obJRiINzPred7hD8J0Lk2dLTf</string>
+    <string name="twitter_consumer_key"></string>
+    <string name="twitter_consumer_secret"></string>
     <string name="location_updated_message">location updated</string>
     <string name="permission_rationale">Location permission is needed for core functionality</string>
     <string name="permission_denied_explanation">Permission was denied, but is needed for core         functionality.</string>
