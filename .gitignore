@@ -63,3 +63,9 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+app/src/main/assets/credentials.json
+app/src/main/res/client_id.json
+*.jar
+app/.settings/org.eclipse.buildship.core.prefs
+.settings/org.eclipse.buildship.core.prefs
+.idea/
